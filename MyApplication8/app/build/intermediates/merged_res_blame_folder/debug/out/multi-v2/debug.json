@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\MyApplication8\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\MyApplication8\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,101,144,195",
+                        "endColumns": "42,41,49,41",
+                        "endOffsets": "95,138,189,232"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,98,140,188",
+                        "endColumns": "42,41,47,39",
+                        "endOffsets": "93,135,183,223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\MyApplication8\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "271,562",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "557,717"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\MyApplication8\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "228",
+                        "endColumns": "42",
+                        "endOffsets": "266"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Nov 01 22:28:25 SAMT 2021
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\MyApplication8\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

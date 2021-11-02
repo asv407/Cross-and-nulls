@@ -1,0 +1,12 @@
+ru.samsung.itschool.book.cells:style/AppTheme = 0x7f060001
+ru.samsung.itschool.book.cells:id/CellsLayout = 0x7f030000
+ru.samsung.itschool.book.cells:style/AppBaseTheme = 0x7f060000
+ru.samsung.itschool.book.cells:color/white = 0x7f010003
+ru.samsung.itschool.book.cells:string/app_name = 0x7f050000
+ru.samsung.itschool.book.cells:layout/cells = 0x7f040001
+ru.samsung.itschool.book.cells:id/HorizontalScrollView01 = 0x7f030001
+ru.samsung.itschool.book.cells:color/bestRed = 0x7f010001
+ru.samsung.itschool.book.cells:drawable/ic_launcher = 0x7f020000
+ru.samsung.itschool.book.cells:color/transparent = 0x7f010002
+ru.samsung.itschool.book.cells:layout/cell = 0x7f040000
+ru.samsung.itschool.book.cells:color/bestBlue = 0x7f010000
